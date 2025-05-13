@@ -46,5 +46,7 @@ const Home = () => {
     </div>
   );
 };
-
+// this is the comment area of this page
 export default Home;
+// another comment
+// this is another comment written in the neovim

@@ -13,12 +13,8 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit iure
-          at repudiandae obcaecati, earum recusandae dignissimos quibusdam ad
-          hic expedita quis enim odio nesciunt voluptas laborum similique eius
-          dolore eveniet laboriosam tenetur nisi maxime ex voluptatem corporis?
-          Voluptas inventore similique accusantium hic reiciendis labore
-          veritatis cupiditate obcaecati! Iusto, hic reiciendis.
+          Hello flocks i'm sarams rauniyar a leanrning developer who is also focusing on the cybersecurity and other parts of the computing like cryptography quantum computing and many other things which will just help me to improve my way to learning and doing stuffs with the knowledges which i have gained through out the life which i have spent till this date
+
         </p>
         <br />
         <p className="text-xl">
@@ -28,7 +24,11 @@ const About = () => {
           aspernatur similique quod! Reprehenderit nemo iste aliquid sapiente
           illum incidunt, commodi omnis? Expedita quo, similique aut doloremque
           omnis sapiente voluptatem quam voluptatibus laborum voluptatum?
+
         </p>
+        <div>
+          <p>this is loren and other other </p>
+        </div>
       </div>
     </div>
   );
